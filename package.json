@@ -1,0 +1,11 @@
+{
+  "name": "alex-home",
+  "version": "1.0.0",
+  "description": "Nothing but an experiment running azure, for the moment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Alex Middeleer",
+  "license": "Apache-2.0"
+}
