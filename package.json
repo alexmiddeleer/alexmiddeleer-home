@@ -7,5 +7,8 @@
     "test": "jest"
   },
   "author": "Alex Middeleer",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
 }
